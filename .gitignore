@@ -1,6 +1,11 @@
-*.DS_Store
-*.gem
-.bundle
-.sass-cache
-_site
-Gemfile.lock
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+/vendor
